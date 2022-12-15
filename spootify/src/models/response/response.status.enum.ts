@@ -1,0 +1,3 @@
+export enum RESPONSE_CODE {
+  UNAUTHORIZED = 401,
+}
